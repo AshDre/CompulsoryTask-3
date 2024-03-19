@@ -1,1 +1,1 @@
-print("Good Day, Please enter your name: ")
+name = input("Good Day, Please enter your name: ")
